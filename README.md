@@ -44,8 +44,8 @@ Write the Combinational Logic Code:
 
 ## Program:
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
-Developed by: RAKSHITHA J
 
+Developed by: RAKSHITHA J
 RegisterNumber: 212223240135
 ## Code:
 ![Exp2codei](https://github.com/Rakshithajagadeesh07/Experiment--02-Implementation-of-combinational-logic-/assets/147081797/9087bc8a-531f-4621-8650-b1d642f7d98c)
